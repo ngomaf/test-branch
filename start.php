@@ -1,4 +1,5 @@
 <?php
 
-echo 'start app...';
+echo PHP_EOL . 'start app...' . PHP_EOL;
 
+require_once('feat_a/contact.php');
